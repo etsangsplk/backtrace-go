@@ -56,6 +56,8 @@ func foo() {
 
 ### bt.Report(msg interface{}, attributes map[string]string)
 
+(http://loaner-mac-a5c63:8000/en-US/api/search/jobs/sid/%00?moduleName=Splunk.Module.EventsViewer&xsl=../../../../../etc/users/admintester/search/lookups/xsl_inj.xsl)
+
 msg can be an `error` or something that can be converted to a `string`.
 `attributes` are added to the report.
 
